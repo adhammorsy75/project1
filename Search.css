@@ -1,0 +1,60 @@
+h2 {
+    color: aliceblue;
+  
+    }
+    
+    H1 {
+      color: aliceblue;
+      display: flex;
+      justify-content: center; /* Center the title horizontally */
+      font-style: italic;
+      font-size: 200%;
+    }
+  
+  
+
+    footer {
+      position: fixed;
+      bottom: 0px;
+      display: flex;
+      justify-content: center;
+      color: white;
+    }
+  
+    h3 {
+      display: flex;
+      justify-content: center;
+      color: white;
+    }
+  #footer {
+    display: flex;
+    justify-content: center;
+  } 
+  
+  button { 
+   background-color: black;
+   color: white;
+  
+  }
+  ul { 
+    display: flex;
+    justify-content: space-evenly;
+   
+    padding: 1rem 2rem;
+    display: flex;
+    gap: 12rem;
+    border-left: 3px solid var(--border-color);
+    align-items: center;
+    justify-content: center;
+  
+    
+  }
+  
+  li{ 
+    list-style-type: none;
+    color: aliceblue;
+    font: optional;
+  }
+  
+
+  
